@@ -1,0 +1,5 @@
+#surefire
+#Sat Jun 17 17:10:23 UTC 2023
+basedir=/var/lib/jenkins/workspace/DeclarativePipeline1/webapp
+user.dir=/var/lib/jenkins/workspace/DeclarativePipeline1/webapp
+localRepository=/var/lib/jenkins/.m2/repository
